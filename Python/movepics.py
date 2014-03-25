@@ -1,6 +1,5 @@
 import os
 
-# This script moves pictures from the desktop to a folder
 dir = os.getcwd()+"/";
 todir = dir+"Bilder/"
 try:
